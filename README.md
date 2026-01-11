@@ -53,7 +53,6 @@ It shows:
 <img width="1719" height="787" alt="Screenshot 2026-01-10 200058" src="https://github.com/user-attachments/assets/85fa060c-30e8-4083-a668-bfea6240fcce" />
 
 
-<img width="1375" height="786" alt="Screenshot 2026-01-10 200120" src="https://github.com/user-attachments/assets/18ee8fe4-3e28-4e25-8ed7-c8ed4963fab4" />
 
 
 
