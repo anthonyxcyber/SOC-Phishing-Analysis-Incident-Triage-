@@ -4,33 +4,49 @@ This repository documents a realistic Tier-1 SOC analyst workflow focused on phi
 Objectives
 -Perform phishing alert triage
 -Distinguish true positives vs false positives
+
 -Identify social engineering indicators
+
 -Document findings in SOC-style incident reports
+
 -Apply escalation logic appropriately
+
 -Reduce alert noise through rule-tuning awareness
 
 Skills Demonstrated
 -SOC Tier-1 alert analysis
+
 -30+ Phishing & scam detection in a live scenario
+
 -Email header and content analysis
+
 -Indicator of Compromise (IOC) identification
 
 Incident documentation
 -Escalation decision-making
+
 -Security judgment under ambiguity
+
 
 Tools & Frameworks
 -SOC Simulator (TryHackMe)
+
 -Email security workflows
 
+
 SOC incident reporting format
+
 -MITRE ATT&CK (conceptual mapping)Why This Project Matters
 
 
 It shows:
+
 -Judgment, not tool-clicking
+
 -Documentation, not guessing
+
 -Calm decision-making under alert fatigue
+
 
 
 
